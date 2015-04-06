@@ -4,7 +4,7 @@ email:       simadragosbogdan@gmail.com
 author:      Bogdan Sima
 description: "Personal website, blog and show off tool."
 baseurl:     ""
-url:         "http://dbsima.github.io/.com"
+url:         "http://dbsima.github.io/"
 
 # Google analytics
 google_analytics:
