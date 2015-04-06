@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Techoughts
+email:       simadragosbogdan@gmail.com
+author:      Bogdan Sima
+description: "Personal website, blog and show off tool."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://dbsima.github.io/.com"
 
 # Google analytics
 google_analytics:
@@ -20,9 +20,9 @@ disqus_shortname:
 
 # Social icons
 show_social_icons: false
-github_username:
+github_username:   dbsima
 stackoverflow_id:
-twitter_username:
+twitter_username:  dbsima
 google_plus_id:
 linkedin_username:
 bitcoin_url:
@@ -31,7 +31,7 @@ flattr_button:
 
 # Post sharing icons
 show_sharing_icons: false
-share_text: 'Share this post!'
+share_text: 'Share this techought!'
 # Change to 'true' to enable individual icons
 share_facebook: false
 share_twitter: false
